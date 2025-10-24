@@ -6,6 +6,7 @@ REG.NO: 212224240163
 
 Aim:
 To write a C program to display stack elements using an array.
+
 Algorithm:
 1.	Include Necessary Header Files
 2.	Declare Global Variables
