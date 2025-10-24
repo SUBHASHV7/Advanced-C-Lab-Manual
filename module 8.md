@@ -5,7 +5,6 @@ NAME: SUBHASH V
 REG.NO: 212224240163
 
 Aim:
-
 To write a C program print the lowercase English word corresponding to the number
 
 Algorithm:
